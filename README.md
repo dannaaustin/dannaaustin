@@ -4,7 +4,7 @@
 ESBORRANY, MOLT ESBORRANY... Ja ho fare algun dia...
 
  *Building structured data workflows (ETL concepts, cloud fundamentals).* o
-
+<img src="https://i.pinimg.com/originals/68/20/13/682013937363235571.jpg" width="400" alt="Ilustración">
 ---
 
 ## 🛠️ Technical Stack & Skills
