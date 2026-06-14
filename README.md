@@ -1,6 +1,8 @@
 ## Hi there 👋
 # ¡Hola! Soy Danna Austin 👋
 
+ESBORRANY, MOLT ESBORRANY... Ja ho fare algun dia...
+
  *Building structured data workflows (ETL concepts, cloud fundamentals).* o
 
 ---
@@ -11,7 +13,7 @@
 | :--- | :--- |
 | **Data & Analytics** | Python (Pandas, NumPy, Scikit-learn) • SQL (PostgreSQL, MySQL) • Power BI • Excel Advanced • Statistics |
 | **Engineering** | ETL Pipelines • Web Scraping & APIs • Cloud Fundamentals (AWS/GCP) • Git & GitHub |
-| **Business Strategy** | Pon aquí tus habilidades de negocio (ej. Project Management, Marketing, etc.) |
+| **Business Strategy** | habilidades de negocio (ej. Project Management, Marketing, etc.) |
 | **Methodologies** | Agile • Scrum • Kanban • Data-driven Decision Making |
 
 ---
