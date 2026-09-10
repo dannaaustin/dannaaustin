@@ -2,9 +2,9 @@
 
 Bon dia, *Moin* ! Soy Danna "Austin"
 
-ESBORRANY, MOLT ESBORRANY... Ja ho fare algun dia...
 
- *Building structured data workflows (ETL concepts, cloud fundamentals).* o
+<!-- NOTA PROPIA: Building structured data workflows (ETL concepts, cloud fundamentals). -->
+ESBORRANY, MOLT ESBORRANY... Ja ho fare algun dia...
 
  <p align="center">
   <img src="%20.jpg" width="400" alt="Mi Foto de Perfil">
@@ -84,7 +84,8 @@ Cada herramienta técnica que utilizo está fundamentada en un objetivo real y a
 
 ## 📜 Continuous Learning Directory / Índice de Formación Continuada
 
-*Aquí puedes consultar los documentos y acreditaciones de mi formación complementaria, alojados de forma segura en mi repositorio secundario:
+Aquí puedes consultar los documentos y acreditaciones de mi formación complementaria, alojados de forma segura en mi repositorio secundario:
+
 A través del enlace **"View"**, se podrá auditar (parte) de mi ecosistema de aprendizaje. Siendo así certificaciones indexadas la evidencia tangible de que me gusta moverme, ser **autodidacta** y gestionar mi propio aprendizaje (**lifelong learning**). Es mi manera de mantener al día mi **learnability** para adaptarme rápido a lo que pida cada proceso y aportar soluciones con rigor desde el primer día.
 
 
@@ -114,13 +115,13 @@ A través del enlace **"View"**, se podrá auditar (parte) de mi ecosistema de a
   👉 [View](../Continuous-Learning/blob/main/EOI_Agentes%20del%20Cambio%20G2%20(Danna).pdf)
 
 ### 🐍 Programming / Programación
-* Programación en Python** — *IBM & BeJob*
+* Programación en Python — *IBM & BeJob*
   👉 [View](../Continuous-Learning/blob/main/Python_IBM_Bejob_Danna_V.pdf)
-* Curso de Python** — *LaSalle Universitat Ramon Llull*
+* Curso de Python — *LaSalle Universitat Ramon Llull*
   👉 [View](../Continuous-Learning/blob/main/Python_LaSalle_Danna_Vall%C3%A8s_T20250053.pdf)
 
 ### 📐 Management & Strategy / Gestión y Estrategia
-* Dirección Directiva / Transformación Digital** — *EAE Business School*
+* Dirección Directiva / Transformación Digital — *EAE Business School*
   👉 [View](../Continuous-Learning/blob/main/EAE_Transformacion%20Digital%20Directivos.pdf)
 * Project Management & Agile Methodologies — *Banco Santander*
   👉 [View](../Continuous-Learning/blob/main/Project%20Managment%20%26%20Agile.Santander.pdf)
@@ -129,7 +130,7 @@ A través del enlace **"View"**, se podrá auditar (parte) de mi ecosistema de a
 
 ### 🏛️ Academic & Institutional / Registro Institucional
 * **Representant dels Estudiants** — *Claustre de la Facultat de Dret UB (Universitat de Barcelona)*
-  👉 [View Document / Ver Documento](../Continuous-Learning/blob/main/SIGNADA_Resoluci%C3%B3_Proclamaci%C3%B3%20de%20candidatures%20estudiants%20CLAUSTRE_DRET.pdf)
+  👉 [View](../Continuous-Learning/blob/main/SIGNADA_Resoluci%C3%B3_Proclamaci%C3%B3%20de%20candidatures%20estudiants%20CLAUSTRE_DRET.pdf)
 
 
 ---
@@ -163,13 +164,13 @@ A través del enlace **"View"**, se podrá auditar (parte) de mi ecosistema de a
 
 ### 🎓 **Google Data Analytics Professional Certificate** *(In Progress / En Curso)*
 
-*   ✅ **Course 1: Foundations: Data, Data, Everywhere**  - [Verify](https://coursera.org/share/6412f0fac1fbb4b7d9c41d1f97f100fe))*
-    * * Keywords & Skills: Data Processing, Data Ethics, SQL, Tableau Software, Spreadsheet Software, Analytical Skills, Data-Driven Decision-Making.*
+*   ✅ **Course 1: Foundations: Data, Data, Everywhere**  - [Verify](https://coursera.org/share/6412f0fac1fbb4b7d9c41d1f97f100fe))
+    * Keywords & Skills: Data Processing, Data Ethics, SQL, Tableau Software, Spreadsheet Software, Analytical Skills, Data-Driven Decision-Making.*
 
 
-### 🎖️ ** International Business Machines (IBM)
+### 🎖️ **International Business Machines (IBM)**
 *   ✅ **IBM Data Analytics Certificate - SkillsBuild**
-  *Validación de controles de seguridad, análisis de datos y mitigación de riesgos bajo Estándares Operativos de Cumplimiento (Compliance) o Gobierno Corporativo.*
+    * Validación de controles de seguridad, análisis de datos y mitigación de riesgos bajo Estándares Operativos de Cumplimiento (Compliance) o Gobierno Corporativo.*
 
 - Data Fundamentals
 - Data Preparation for Analysis
