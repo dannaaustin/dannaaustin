@@ -62,6 +62,52 @@ Cada herramienta técnica que utilizo está fundamentada en un objetivo real y a
 
 ---
 
+## 📜 Continuous Learning Directory / Índice de Formación Continua
+
+*Aquí puedes consultar los documentos y acreditaciones de mi formación complementaria:*
+
+### 🛡️ Cybersecurity / Ciberseguridad
+* **[ES] Curso de Ciberseguridad** — *Accenture*
+  👉 [View Certificate / Ver Certificado](./Accenture_Ciberseguridad.pdf)
+* **[ES] Programa de Ciberseguridad** — *IBM & Banco Santander*
+  👉 [View Certificate / Ver Certificado](./IBM_Ciberseguridad.Santander.pdf)
+* **[ES] Especialización en Ciberseguridad** — *UPC*
+  👉 [View Certificate / Ver Certificado](./UPC_Ciberseguridad.pdf)
+* **[EN] Fundamentos de Ciberseguridad en Cadena de Suministro** — *CSB Global*
+  👉 [View Certificate / Ver Certificado](./CSB%20Global-Fundamentos-de-ciberseguridad-aplicada-a-la-cadena-de-suministro-CERTIFICATE-CSB-GLOBAL-CIBERSEGURIDAD-APLICADA-A-LA-CDS-Certified%20Specialist%20Bureau.pdf)
+
+### 📊 Data Analytics & AI / Analítica de Datos e IA
+* **[ES] Certificado Profesional en Data Analytics (PCDA)** — *IBM*
+  👉 [View Certificate / Ver Certificado](./IBM_Data_Analytics_certificado_PCDA_DANNA_VALL%C3%88S.pdf)
+* **[ES] Fundamentos de Análisis de Datos** — *IT Academy (Barcelona Activa)*
+  👉 [View Certificate / Ver Certificado](./IT%20Academy_Fonaments%20Analis_de%20Datos.pdf)
+* **[EN] Fundamentos de IA para Transformación Digital** — *CSB Global*
+  👉 [View Certificate / Ver Certificado](./CSB%20Global-Fundamentos-de-IA-como-Herramienta-de-con-Digital-CERTIFICATE-CSB-GLOBAL-FUNDAMENTOS-IA-HERRAMIENTAS-TRANSFORMACION-DIGITAL_Certified%20Specialist%20Bureau.pdf)
+* **[ES] IA en el Tercer Sector** — *Fundació Esplai & Microsoft*
+  👉 [View Certificate / Ver Certificado](./Esplai-Microsoft_IA%20Tercer%20Sector.pdf)
+* **[ES] Programa de IA Generativa** — *EOI*
+  👉 [View Certificate / Ver Certificado](./EOI_Cert_Mooc_Gen-Dig_Danna%20Vall%C3%A8s.pdf)
+* **[ES] Agentes del Cambio G2** — *EOI*
+  👉 [View Certificate / Ver Certificado](./EOI_Agentes%20del%20Cambio%20G2%20(Danna).pdf)
+
+### 🐍 Programming / Programación
+* **[ES] Programación en Python** — *IBM & BeJob*
+  👉 [View Certificate / Ver Certificado](./Python_IBM_Bejob_Danna_V.pdf)
+* **[ES] Curso de Python** — *LaSalle Universitat Ramon Llull*
+  👉 [View Certificate / Ver Certificado](./Python_LaSalle_Danna_Vall%C3%A8s_T20250053.pdf)
+
+### 📐 Management & Strategy / Gestión y Estrategia
+* **[ES] Dirección Directiva / Transformación Digital** — *EAE Business School*
+  👉 [View Certificate / Ver Certificado](./EAE_Transformacion%20Digital%20Directivos.pdf)
+* **[ES] Project Management & Agile Methodologies** — *Banco Santander*
+  👉 [View Certificate / Ver Certificado](./Project%20Managment%20%26%20Agile.Santander.pdf)
+* **[ES] Project Management & Team Management** — *Banco Santander*
+  👉 [View Certificate / Ver Certificado](./Project%20Managment%20%26%20Team%20Managment.Santander.pdf)
+
+
+
+---
+
 ## 🔗 Quick Verification Links / Enlaces de Verificación Rápida
 
 * 🎖️ **[Credly Public Profile](https://www.credly.com/users/danna-valles/badges/credly)** — *IBM SkillsBuild Core Certifications*
