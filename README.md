@@ -1,4 +1,6 @@
-# ¡Hola! Soy Danna Austin 👋
+# 
+
+Bon dia, *Moin* ! Soy Danna "Austin"
 
 ESBORRANY, MOLT ESBORRANY... Ja ho fare algun dia...
 
@@ -10,7 +12,24 @@ ESBORRANY, MOLT ESBORRANY... Ja ho fare algun dia...
 
 ---
 
+```python
+def about_me():
+    name = "As Cher, its Just Danna"
+    roles = ["Data Analyst", "Project Management Specialist"]
+    focus = "Public Sector Compliance & Administrative Strategy"
+    location = "Barcelona (08024), Spain"
+    skills = ["Data Workflows", "ETL", "Process Automation"]
+```
 
+Este directorio refleja mi perfil **autodidacta** y una mentalidad orientada al **reskilling y upskilling** constante. Más allá de los títulos, es la prueba de una inquietud **polímata** por conectar conocimientos profundos sobre campos diversos, aportando valor real, rigor y eficiencia en la revisión de entornos críticos y sector público desde el primer día.
+
+### ⚙️ Engineering & Agile
+![Git](https://shields.io)
+![GitHub](https://shields.io)
+![Scrum](https://shields.io)
+![Jira](https://shields.io)
+![Google Cloud](https://shields.io)
+![Azure](https://shields.io)
 ---
 
 ## 🌍 Profile / Perfil Profesional
@@ -46,9 +65,8 @@ Cada herramienta técnica que utilizo está fundamentada en un objetivo real y a
 
 ## 🎓 Education / Educación
 
-* **Bachelor o** — Escuela o Universidad
 * **Data Analytics Bootcamp** — IT Academy (Barcelona Activa)
-* **Grado o Licenciatura en X** — Universidad
+* **Grado** — Universidad
 
 ---
 
@@ -62,52 +80,57 @@ Cada herramienta técnica que utilizo está fundamentada en un objetivo real y a
 
 ---
 
-## 📜 Continuous Learning Directory / Índice de Formación Continua
+---
 
-*Aquí puedes consultar los documentos y acreditaciones de mi formación complementaria:*
+## 📜 Continuous Learning Directory / Índice de Formación Continuada
+
+*Aquí puedes consultar los documentos y acreditaciones de mi formación complementaria, alojados de forma segura en mi repositorio secundario:
+A través del enlace **"View"**, se podrá auditar (parte) de mi ecosistema de aprendizaje. Siendo así certificaciones indexadas la evidencia tangible de que me gusta moverme, ser **autodidacta** y gestionar mi propio aprendizaje (**lifelong learning**). Es mi manera de mantener al día mi **learnability** para adaptarme rápido a lo que pida cada proceso y aportar soluciones con rigor desde el primer día.
+
+
 
 ### 🛡️ Cybersecurity / Ciberseguridad
-* **[ES] Curso de Ciberseguridad** — *Accenture*
-  👉 [View Certificate / Ver Certificado](./Accenture_Ciberseguridad.pdf)
-* **[ES] Programa de Ciberseguridad** — *IBM & Banco Santander*
-  👉 [View Certificate / Ver Certificado](./IBM_Ciberseguridad.Santander.pdf)
-* **[ES] Especialización en Ciberseguridad** — *Universitat Politècnica de Catalunya (UPC)*
-  👉 [View Certificate / Ver Certificado](./UPC_Ciberseguridad.pdf)
-* **[EN] Fundamentos de Ciberseguridad en Cadena de Suministro** — *Certified Specialist Bureau (CSB Global)*
-  👉 [View Certificate / Ver Certificado](./CSB%20Global-Fundamentos-de-ciberseguridad-aplicada-a-la-cadena-de-suministro-CERTIFICATE-CSB-GLOBAL-CIBERSEGURIDAD-APLICADA-A-LA-CDS-Certified%20Specialist%20Bureau.pdf)
+* Curso de Ciberseguridad — *Accenture*
+  👉 [View](../Continuous-Learning/blob/main/Accenture_Ciberseguridad.pdf)
+* Programa de Ciberseguridad — *IBM & Banco Santander*
+  👉 [View](../Continuous-Learning/blob/main/IBM_Ciberseguridad.Santander.pdf)
+* Especialización en Ciberseguridad — *Universitat Politècnica de Catalunya (UPC)*
+  👉 [View](../Continuous-Learning/blob/main/UPC_Ciberseguridad.pdf)
+* Fundamentos de Ciberseguridad en Cadena de Suministro — *Certified Specialist Bureau (CSB Global)*
+  👉 [View](../Continuous-Learning/blob/main/CSB%20Global-Fundamentos-de-ciberseguridad-aplicada-a-la-cadena-de-suministro-CERTIFICATE-CSB-GLOBAL-CIBERSEGURIDAD-APLICADA-A-LA-CDS-Certified%20Specialist%20Bureau.pdf)
 
 ### 📊 Data Analytics & AI / Analítica de Datos e IA
-* **[ES] Certificado Profesional en Data Analytics (PCDA)** — *IBM*
-  👉 [View Certificate / Ver Certificado](./IBM_Data_Analytics_certificado_PCDA_DANNA_VALL%C3%88S.pdf)
-* **[ES] Fundamentos de Análisis de Datos** — *IT Academy (Barcelona Activa)*
-  👉 [View Certificate / Ver Certificado](./IT%20Academy_Fonaments%20Analis_de%20Datos.pdf)
-* **[EN] Fundamentos de IA para Transformación Digital** — *Certified Specialist Bureau (CSB Global)**
-  👉 [View Certificate / Ver Certificado](./CSB%20Global-Fundamentos-de-IA-como-Herramienta-de-con-Digital-CERTIFICATE-CSB-GLOBAL-FUNDAMENTOS-IA-HERRAMIENTAS-TRANSFORMACION-DIGITAL_Certified%20Specialist%20Bureau.pdf)
-* **[ES] IA en el Tercer Sector** — *Fundació Esplai Microsoft*
-  👉 [View Certificate / Ver Certificado](./Esplai-Microsoft_IA%20Tercer%20Sector.pdf)
-* **[ES] Programa de IA Generativa** — *Escuela de Organización Industrial (EOI)*
-  👉 [View Certificate / Ver Certificado](./EOI_Cert_Mooc_Gen-Dig_Danna%20Vall%C3%A8s.pdf)
-* **[ES] Agentes del Cambio G2** — *Escuela de Organización Industrial (EOI)*
-  👉 [View Certificate / Ver Certificado](./EOI_Agentes%20del%20Cambio%20G2%20(Danna).pdf)
+* **Certificado Profesional en Data Analytics** (PCDA)* — *IBM*
+  👉 [View](../Continuous-Learning/blob/main/IBM_Data_Analytics_certificado_PCDA_DANNA_VALL%C3%88S.pdf)
+* Fundamentos de Análisis de Datos — *IT Academy (Barcelona Activa)*
+  👉 [View](../Continuous-Learning/blob/main/IT%20Academy_Fonaments%20Analis_de%20Datos.pdf)
+* Fundamentos de IA para Transformación Digital — *Certified Specialist Bureau (CSB Global)*
+  👉 [View](../Continuous-Learning/blob/main/CSB%20Global-Fundamentos-de-IA-como-Herramienta-de-con-Digital-CERTIFICATE-CSB-GLOBAL-FUNDAMENTOS-IA-HERRAMIENTAS-TRANSFORMACION-DIGITAL_Certified%20Specialist%20Bureau.pdf)
+* IA en el Tercer Sector — *Fundació Esplai Microsoft*
+  👉 [View](../Continuous-Learning/blob/main/Esplai-Microsft_IA%20Tercer%20Sector.pdf)
+* Programa de IA Generativa — *Escuela de Organización Industrial (EOI)*
+  👉 [View](../Continuous-Learning/blob/main/EOI_Cert_Mooc_Gen-Dig_Danna%20Vall%C3%A8s.pdf)
+* Agentes del Cambio G2 — *Escuela de Organización Industrial (EOI)*
+  👉 [View](../Continuous-Learning/blob/main/EOI_Agentes%20del%20Cambio%20G2%20(Danna).pdf)
 
 ### 🐍 Programming / Programación
-* **[ES] Programación en Python** — *IBM & BeJob*
-  👉 [View Certificate / Ver Certificado](./Python_IBM_Bejob_Danna_V.pdf)
-* **[ES] Curso de Python** — *LaSalle Universitat Ramon Llull*
-  👉 [View Certificate / Ver Certificado](./Python_LaSalle_Danna_Vall%C3%A8s_T20250053.pdf)
+* Programación en Python** — *IBM & BeJob*
+  👉 [View](../Continuous-Learning/blob/main/Python_IBM_Bejob_Danna_V.pdf)
+* Curso de Python** — *LaSalle Universitat Ramon Llull*
+  👉 [View](../Continuous-Learning/blob/main/Python_LaSalle_Danna_Vall%C3%A8s_T20250053.pdf)
 
 ### 📐 Management & Strategy / Gestión y Estrategia
-* **[ES] Dirección Directiva / Transformación Digital** — *EAE Business School*
-  👉 [View Certificate / Ver Certificado](./EAE_Transformacion%20Digital%20Directivos.pdf)
-* **[ES] Project Management & Agile Methodologies** — *Banco Santander*
-  👉 [View Certificate / Ver Certificado](./Project%20Managment%20%26%20Agile.Santander.pdf)
-* **[ES] Project Management & Team Management** — *Banco Santander*
-  👉 [View Certificate / Ver Certificado](./Project%20Managment%20%26%20Team%20Managment.Santander.pdf)
+* Dirección Directiva / Transformación Digital** — *EAE Business School*
+  👉 [View](../Continuous-Learning/blob/main/EAE_Transformacion%20Digital%20Directivos.pdf)
+* Project Management & Agile Methodologies — *Banco Santander*
+  👉 [View](../Continuous-Learning/blob/main/Project%20Managment%20%26%20Agile.Santander.pdf)
+* Project Management & Team Management — *Banco Santander*
+  👉 [View](../Continuous-Learning/blob/main/Project%20Managment%20%26%20Team%20Managment.Santander.pdf)
 
+### 🏛️ Academic & Institutional / Registro Institucional
+* **Representant dels Estudiants** — *Claustre de la Facultat de Dret UB (Universitat de Barcelona)*
+  👉 [View Document / Ver Documento](../Continuous-Learning/blob/main/SIGNADA_Resoluci%C3%B3_Proclamaci%C3%B3%20de%20candidatures%20estudiants%20CLAUSTRE_DRET.pdf)
 
-## 🏛️ Academic & Institutional / Registro Institucional
-* **[CAT] Representant dels Estudiant** — *Claustre de la Facultat de Dret UB (Universitat de Barcelona)*
-  👉 [View Document / Ver Documento](./cert-resolucio-claustre-dret.pdf)
 
 ---
 
@@ -128,11 +151,11 @@ Cada herramienta técnica que utilizo está fundamentada en un objetivo real y a
 ### 🚀 **Google Project Management Professional Certificate** *(In Progress / En Curso)*
 - Foundations of Project Management
 - Project Initiation: Starting a Successful Project
-- Project Planning: Putting It All Together *(93% Completed)*
+- Project Planning: Putting It All Together *(In Progress)*
 *   📖 *Upcoming Modules: Project Execution • Agile Project Management • Capstone Applied Project • AI Job Search.*
 
 ### 🛠️ **IBM / Scrum**
-*   ⏳ **Introduction to Agile Development and Scrum** *(68% Completed - In Progress)* — *IBM SkillsBuild*
+*   ⏳ **Introduction to Agile Development and Scrum** *(In Progress)* — *IBM SkillsBuild*
 
 ---
 
@@ -146,6 +169,8 @@ Cada herramienta técnica que utilizo está fundamentada en un objetivo real y a
 
 ### 🎖️ ** International Business Machines (IBM)
 *   ✅ **IBM Data Analytics Certificate - SkillsBuild**
+  *Validación de controles de seguridad, análisis de datos y mitigación de riesgos bajo Estándares Operativos de Cumplimiento (Compliance) o Gobierno Corporativo.*
+
 - Data Fundamentals
 - Data Preparation for Analysis
 - Data Visualization and Presentation
