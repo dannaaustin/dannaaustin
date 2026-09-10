@@ -1,4 +1,3 @@
-## Hi there 👋
 # ¡Hola! Soy Danna Austin 👋
 
 ESBORRANY, MOLT ESBORRANY... Ja ho fare algun dia...
@@ -11,24 +10,41 @@ ESBORRANY, MOLT ESBORRANY... Ja ho fare algun dia...
 
 ---
 
-## 🛠️ Technical Stack & Skills
+
+---
+
+## 🌍 Profile / Perfil Profesional
+
+**[EN]** Bridging the gap between high-level Business Strategy and Data-driven Execution. Experienced in building structured data workflows, managing cross-functional documentation, and ensuring regulatory compliance.
+
+**[ES]** Conectando la estrategia de negocio con la ejecución basada en datos. Experiencia en la creación de flujos de trabajo estructurados, gestión de documentación transversal y cumplimiento normativo en el sector público.
+
+---
+
+## 🛠️ Technical Stack & Skills / Habilidades Técnicas
+
 
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Data & Analytics** | Python (Pandas, NumPy, Scikit-learn) • SQL (PostgreSQL, MySQL) • Power BI • Excel Advanced • Statistics |
 | **Engineering** | ETL Pipelines • Web Scraping & APIs • Cloud Fundamentals (AWS/GCP) • Git & GitHub |
-| **Business Strategy** | habilidades de negocio (ej. Project Management, Marketing, etc.) |
+| **Business Strategy** | Habilidades de Negocio (ej. Project Management, etc.) |
 | **Methodologies** | Agile • Scrum • Kanban • Data-driven Decision Making |
+
+
 
 ---
 
 ## 🧭 Career Journey
 
-*Ejemplo:* Mi evolución profesional refleja un cambio desde [tu pasado/otra área] hacia el diseño de sistemas analíticos y procesos que optimizan y respaldan las decisiones empresariales. Cada herramienta técnica que utilizo está fundamentada en un objetivo real.
+**[EN]** My professional evolution reflects a strategic transition towards data analytics, with a strong focus on designing systems and automated workflows that optimize and support business decisions. Every technical tool I use is grounded in a real, actionable commercial objective.
+
+**[ES]** Mi evolución profesional refleja una transición estratégica hacia la Analítica de Datos, con un fuerte enfoque en el diseño de sistemas y flujos de trabajo automatizados que optimizan y respaldan las decisiones empresariales. 
+Cada herramienta técnica que utilizo está fundamentada en un objetivo real y accionable.
 
 ---
 
-## 🎓 Education
+## 🎓 Education / Educación
 
 * **Nombre del Máster/Curso** — Escuela o Universidad
 * **Data Analytics Bootcamp** — Nombre del sitio (Año)
@@ -36,8 +52,9 @@ ESBORRANY, MOLT ESBORRANY... Ja ho fare algun dia...
 
 ---
 
-## 🌍 Languages
+## 🌍 Languages / Idiomas
 
+* **Catalán:** Nativo
 * **Español:** Nativo
 * **Inglés:** Avanzado (C1)
 * **[Otro idioma]:** Nivel
@@ -47,6 +64,12 @@ ESBORRANY, MOLT ESBORRANY... Ja ho fare algun dia...
 ### 📊 Mis Estadísticas de GitHub
 *(¡Esto es un extra que queda genial! Borra esta línea si no la quieres)*
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=dannaaustin&show_icons=true&theme=radical)
+
+
+### 📊 GitHub Activity / Estadísticas
+<p align="left">
+  <img src="https://vercel.app" alt="Danna's GitHub Stats" />
+</p>
 
 <!--
 **dannaaustin/dannaaustin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
