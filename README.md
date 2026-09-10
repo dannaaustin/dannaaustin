@@ -58,8 +58,18 @@ Cada herramienta técnica que utilizo está fundamentada en un objetivo real y a
 * **Spanish / Español:** Native / Nativo
 * **English / Inglés:** Advanced (C1) / Avanzado
 * **German / Alemán:** A2
-* 
+
+
 ---
+
+## 🔗 Quick Verification Links / Enlaces de Verificación Rápida
+
+* 🎖️ **[Credly Public Profile](https://www.credly.com/users/danna-valles/badges/credly)**
+* 📜 **[Parchment Verified Collection](https://badges.parchment.com/public/collections/8ee20cd9ec46441f9ec8f91a2ead5337)**
+* 💻 **[Google Skills Boost Profile](https://www.skills.google/public_profiles/aa5d4d3c-5f30-4ec3-a47f-83125367b0ac)**
+* 🚀 **[Google Developer Platform](https://me.developers.google.com/u/117060222963260540815)**
+* 🎓 **[Coursera Verified Certificates](https://coursera.org/share/6412f0fac1fbb4b7d9c41d1f97f100fe)**
+
 
 ### 📊 Mis Estadísticas de GitHub
 
