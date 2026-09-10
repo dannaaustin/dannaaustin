@@ -71,9 +71,9 @@ Cada herramienta técnica que utilizo está fundamentada en un objetivo real y a
   👉 [View Certificate / Ver Certificado](./Accenture_Ciberseguridad.pdf)
 * **[ES] Programa de Ciberseguridad** — *IBM & Banco Santander*
   👉 [View Certificate / Ver Certificado](./IBM_Ciberseguridad.Santander.pdf)
-* **[ES] Especialización en Ciberseguridad** — *UPC*
+* **[ES] Especialización en Ciberseguridad** — *Universitat Politècnica de Catalunya (UPC)*
   👉 [View Certificate / Ver Certificado](./UPC_Ciberseguridad.pdf)
-* **[EN] Fundamentos de Ciberseguridad en Cadena de Suministro** — *CSB Global*
+* **[EN] Fundamentos de Ciberseguridad en Cadena de Suministro** — *Certified Specialist Bureau (CSB Global)*
   👉 [View Certificate / Ver Certificado](./CSB%20Global-Fundamentos-de-ciberseguridad-aplicada-a-la-cadena-de-suministro-CERTIFICATE-CSB-GLOBAL-CIBERSEGURIDAD-APLICADA-A-LA-CDS-Certified%20Specialist%20Bureau.pdf)
 
 ### 📊 Data Analytics & AI / Analítica de Datos e IA
@@ -81,13 +81,13 @@ Cada herramienta técnica que utilizo está fundamentada en un objetivo real y a
   👉 [View Certificate / Ver Certificado](./IBM_Data_Analytics_certificado_PCDA_DANNA_VALL%C3%88S.pdf)
 * **[ES] Fundamentos de Análisis de Datos** — *IT Academy (Barcelona Activa)*
   👉 [View Certificate / Ver Certificado](./IT%20Academy_Fonaments%20Analis_de%20Datos.pdf)
-* **[EN] Fundamentos de IA para Transformación Digital** — *CSB Global*
+* **[EN] Fundamentos de IA para Transformación Digital** — *Certified Specialist Bureau (CSB Global)**
   👉 [View Certificate / Ver Certificado](./CSB%20Global-Fundamentos-de-IA-como-Herramienta-de-con-Digital-CERTIFICATE-CSB-GLOBAL-FUNDAMENTOS-IA-HERRAMIENTAS-TRANSFORMACION-DIGITAL_Certified%20Specialist%20Bureau.pdf)
-* **[ES] IA en el Tercer Sector** — *Fundació Esplai & Microsoft*
+* **[ES] IA en el Tercer Sector** — *Fundació Esplai Microsoft*
   👉 [View Certificate / Ver Certificado](./Esplai-Microsoft_IA%20Tercer%20Sector.pdf)
-* **[ES] Programa de IA Generativa** — *EOI*
+* **[ES] Programa de IA Generativa** — *Escuela de Organización Industrial (EOI)*
   👉 [View Certificate / Ver Certificado](./EOI_Cert_Mooc_Gen-Dig_Danna%20Vall%C3%A8s.pdf)
-* **[ES] Agentes del Cambio G2** — *EOI*
+* **[ES] Agentes del Cambio G2** — *Escuela de Organización Industrial (EOI)*
   👉 [View Certificate / Ver Certificado](./EOI_Agentes%20del%20Cambio%20G2%20(Danna).pdf)
 
 ### 🐍 Programming / Programación
@@ -105,6 +105,9 @@ Cada herramienta técnica que utilizo está fundamentada en un objetivo real y a
   👉 [View Certificate / Ver Certificado](./Project%20Managment%20%26%20Team%20Managment.Santander.pdf)
 
 
+## 🏛️ Academic & Institutional / Registro Institucional
+* **[CAT] Representant dels Estudiant** — *Claustre de la Facultat de Dret UB (Universitat de Barcelona)*
+  👉 [View Document / Ver Documento](./cert-resolucio-claustre-dret.pdf)
 
 ---
 
@@ -160,7 +163,7 @@ Cada herramienta técnica que utilizo está fundamentada en un objetivo real y a
 *   ☁️ **[Gen AI: Beyond the Chatbot / IA generativa: más allá del chatbot](https://skills.google/badges/27832437)** 
 *   ☁️ **[Introduction to Data Analytics in Google Cloud / Introducción al análisis de datos en Google Cloud](https://skills.google/badges/24529030)**
   
-*   💻 **Microsoft Applied Skills & Azure Learning Path** — *Verified via Microsoft Learn*
+*   💻 **Microsoft Applied Skills & Azure Learning Path** — Verified via Microsoft Learn
 
 ### 🐍 **Python Development**
 *   **Web Development with Python**  — *IBM SkillsBuild*
