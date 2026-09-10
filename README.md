@@ -46,8 +46,8 @@ Cada herramienta técnica que utilizo está fundamentada en un objetivo real y a
 
 ## 🎓 Education / Educación
 
-* **Nombre del Máster/Curso** — Escuela o Universidad
-* **Data Analytics Bootcamp** — Nombre del sitio (Año)
+* **Bachelor o** — Escuela o Universidad
+* **Data Analytics Bootcamp** — IT Academy (Barcelona Activa)
 * **Grado o Licenciatura en X** — Universidad
 
 ---
@@ -64,11 +64,60 @@ Cada herramienta técnica que utilizo está fundamentada en un objetivo real y a
 
 ## 🔗 Quick Verification Links / Enlaces de Verificación Rápida
 
-* 🎖️ **[Credly Public Profile](https://www.credly.com/users/danna-valles/badges/credly)**
-* 📜 **[Parchment Verified Collection](https://badges.parchment.com/public/collections/8ee20cd9ec46441f9ec8f91a2ead5337)**
-* 💻 **[Google Skills Boost Profile](https://www.skills.google/public_profiles/aa5d4d3c-5f30-4ec3-a47f-83125367b0ac)**
+* 🎖️ **[Credly Public Profile](https://www.credly.com/users/danna-valles/badges/credly)** — *IBM SkillsBuild Core Certifications*
+
+* 💻 **[Google Skills Boost Profile](https://www.skills.google/public_profiles/aa5d4d3c-5f30-4ec3-a47f-83125367b0ac)** — *Google Cloud & GenAI Badges*
+
+* 🚀 **[Microsoft Learn Profile](https://learn.microsoft.com/es-es/users/dannaaustin-2641/?tab=applied-skills-tab)** — *Applied Skills & Cloud Learning*
+* 📜 **[Parchment Verified Collection](https://badges.parchment.com/public/collections/8ee20cd9ec46441f9ec8f91a2ead5337)** — *Parchment Digital Badges*
 * 🚀 **[Google Developer Platform](https://me.developers.google.com/u/117060222963260540815)**
-* 🎓 **[Coursera Verified Certificates](https://coursera.org/share/6412f0fac1fbb4b7d9c41d1f97f100fe)**
+
+---
+
+## 📐 Project Management & Agile Methodologies
+
+### 🚀 **Google Project Management Professional Certificate** *(In Progress / En Curso)*
+- Foundations of Project Management
+- Project Initiation: Starting a Successful Project
+- Project Planning: Putting It All Together *(93% Completed)*
+*   📖 *Upcoming Modules: Project Execution • Agile Project Management • Capstone Applied Project • AI Job Search.*
+
+### 🛠️ **IBM / Scrum**
+*   ⏳ **Introduction to Agile Development and Scrum** *(68% Completed - In Progress)* — *IBM SkillsBuild*
+
+---
+
+## 📊 Data Analytics & Data Science
+
+### 🎓 **Google Data Analytics Professional Certificate** *(In Progress / En Curso)*
+
+*   ✅ **Course 1: Foundations: Data, Data, Everywhere**  - [Verify](https://coursera.org/share/6412f0fac1fbb4b7d9c41d1f97f100fe))*
+    * * Keywords & Skills: Data Processing, Data Ethics, SQL, Tableau Software, Spreadsheet Software, Analytical Skills, Data-Driven Decision-Making.*
+
+
+### 🎖️ ** International Business Machines (IBM)
+*   ✅ **IBM Data Analytics Certificate - SkillsBuild**
+- Data Fundamentals
+- Data Preparation for Analysis
+- Data Visualization and Presentation
+- Data Collection and Analysis
+- Introduction to Inferential and Descriptive Statistics
+- Data Usability for Organizations
+- Data Classification
+
+
+
+
+## ☁️ Cloud Computing & Generative AI
+
+### 🧠 **Google Cloud Training**
+*   ☁️ **[Gen AI: Beyond the Chatbot / IA generativa: más allá del chatbot](https://skills.google/badges/27832437)** 
+*   ☁️ **[Introduction to Data Analytics in Google Cloud / Introducción al análisis de datos en Google Cloud](https://skills.google/badges/24529030)**
+  
+*   💻 **Microsoft Applied Skills & Azure Learning Path** — *Verified via Microsoft Learn*
+
+### 🐍 **Python Development**
+*   **Web Development with Python**  — *IBM SkillsBuild*
 
 
 ### 📊 Mis Estadísticas de GitHub
