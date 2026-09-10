@@ -54,14 +54,18 @@ Cada herramienta técnica que utilizo está fundamentada en un objetivo real y a
 
 ## 🌍 Languages / Idiomas
 
-* **Catalán:** Nativo
-* **Español:** Nativo
-* **Inglés:** Avanzado (C1)
-* **[Otro idioma]:** Nivel
-
+* **Catalan / Catalán:** Native / Nativo
+* **Spanish / Español:** Native / Nativo
+* **English / Inglés:** Advanced (C1) / Avanzado
+* **German / Alemán:** A2
+* 
 ---
 
 ### 📊 Mis Estadísticas de GitHub
+
+![Danna's GitHub Stats](https://vercel.app)
+
+
 *(¡Esto es un extra que queda genial! Borra esta línea si no la quieres)*
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=dannaaustin&show_icons=true&theme=radical)
 
