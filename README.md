@@ -4,7 +4,19 @@ Bon dia, *Moin* ! Soy Danna "Austin"
 
 
 <!-- NOTA PROPIA: Building structured data workflows (ETL concepts, cloud fundamentals). -->
+
+
 ESBORRANY, MOLT ESBORRANY... Ja ho fare algun dia...
+
+<p align="center">
+  <b>🚧 Under Construction — Pardon the Mess! 🚧</b><br>
+  <i>"I am not just building a bio, I am building a future.... Rome wasn't built in a day, and my ETL pipelines aren't either."</i>
+  <br><br>
+  ⚙️ Currently: cleaning this dataset called <b>my life</b>.<br>
+  ⏰ <b>Estimated Time of Arrival:</b> When the script finally runs without errors (or eventually). <i>Proceed with caution.</i>
+</p>
+
+
 
  <p align="center">
   <img src="%20.jpg" width="400" alt="Mi Foto de Perfil">
@@ -14,12 +26,22 @@ ESBORRANY, MOLT ESBORRANY... Ja ho fare algun dia...
 
 ```python
 def about_me():
-    name = "As Cher, its Just Danna"
+    name = "As Cher, its Just **Danna**" <b>Danna</b>
     roles = ["Data Analyst", "Project Management Specialist"]
     focus = "Public Sector Compliance & Administrative Strategy"
     location = "Barcelona (08024), Spain"
     skills = ["Data Workflows", "ETL", "Process Automation"]
 ```
+
+<pre lang="python">
+def about_me():
+    name = "As Cher, its Just <b>Danna</b>"
+    roles = ["Data Analyst", "Project Management Specialist"]
+    focus = "Public Sector Compliance & Administrative Strategy"
+    location = "Barcelona (08024), Spain"
+    skills = ["Data Workflows", "ETL", "Process Automation"]
+</pre>
+
 
 Este directorio refleja mi perfil **autodidacta** y una mentalidad orientada al **reskilling y upskilling** constante. Más allá de los títulos, es la prueba de una inquietud **polímata** por conectar conocimientos profundos sobre campos diversos, aportando valor real, rigor y eficiencia en la revisión de entornos críticos y sector público desde el primer día.
 
@@ -46,11 +68,14 @@ Este directorio refleja mi perfil **autodidacta** y una mentalidad orientada al 
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Data & Analytics** | Python (Pandas, NumPy, Scikit-learn) • SQL (PostgreSQL, MySQL) • Power BI • Excel Advanced • Statistics |
-| **Engineering** | ETL Pipelines • Web Scraping & APIs • Cloud Fundamentals (AWS/GCP) • Git & GitHub |
+| **Engineering** | ETL Pipelines • Web Scraping & APIs  • Git & GitHub |
 | **Business Strategy** | Habilidades de Negocio (ej. Project Management, etc.) |
 | **Methodologies** | Agile • Scrum • Kanban • Data-driven Decision Making |
 
 
+<!--
+• Cloud Fundamentals (AWS/GCP)
+-->
 
 ---
 
@@ -65,8 +90,11 @@ Cada herramienta técnica que utilizo está fundamentada en un objetivo real y a
 
 ## 🎓 Education / Educación
 
-* **Data Analytics Bootcamp** — IT Academy (Barcelona Activa)
-* **Grado** — Universidad
+* * **Data Analyst Bootcamp** — IT Academy, Barcelona Activa (2026)
+  * *Tech Stack:* Python, SQL, Jupyter, Power BI, Git, BigQuery, MongoDB. Focused on data analytics for strategic decision-making.
+ 
+* **Bachelor's Degree in Political Science & Public Administration** — Universitat Autònoma de Barcelona (2020 - 2024) (not completed)
+  * *Erasmus Exchange Program:* Universität Bremen, Germany (2023 - 2024)
 
 ---
 
@@ -170,7 +198,7 @@ A través del enlace **"View"**, se podrá auditar (parte) de mi ecosistema de a
 
 ### 🎖️ **International Business Machines (IBM)**
 *   ✅ **IBM Data Analytics Certificate - SkillsBuild**
-    * Validación de controles de seguridad, análisis de datos y mitigación de riesgos bajo Estándares Operativos de Cumplimiento (Compliance) o Gobierno Corporativo.*
+    * Validación de controles de seguridad, análisis de datos y mitigación de riesgos bajo Estándares Operativos de Cumplimiento (Compliance) o Gobierno Corporativo.
 
 - Data Fundamentals
 - Data Preparation for Analysis
@@ -180,7 +208,8 @@ A través del enlace **"View"**, se podrá auditar (parte) de mi ecosistema de a
 - Data Usability for Organizations
 - Data Classification
 
-
+   
+* **Artificial Intelligence & Automation** — Ventures Camp / Overlap - Escuela de Organización Industrial (EOI) (2026)
 
 
 ## ☁️ Cloud Computing & Generative AI
