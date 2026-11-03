@@ -223,6 +223,46 @@ A través del enlace **"View"**, se podrá auditar (parte) de mi ecosistema de a
 ### 🐍 **Python Development**
 *   **Web Development with Python**  — *IBM SkillsBuild*
 
+### 🎖️ **Credly (IBM & Coursera)**
+*   ☁️ **Create Your First Gemini Enterprise Application** (Google Cloud)
+*   💼 **Project Management Job Search, Resume, and Interview Prep** (Coursera)
+*   📊 **IBM SkillsBuild Data Analytics Certificate** (IBM SkillsBuild)
+*   🔢 **Data Fundamentals** (IBM SkillsBuild)
+*   🧹 **Data Preparation for Analysis** (IBM SkillsBuild)
+*   📉 **Data Visualization and Presentation** (IBM SkillsBuild)
+*   📥 **Data Collection and Analysis** (IBM SkillsBuild)
+*   🧮 **Introduction to Inferential and Descriptive Statistics** (IBM SkillsBuild)
+
+
+### 💻 **Google Cloud Training (Skills Boost)**
+*   ☁️ **Create Your First Gemini Enterprise Application / Crea tu primera aplicación de Gemini Enterprise
+*   🤖 **Generative AI Agents: Transform Your Organization / Agentes de IA generativa: transforma tu organización** 
+*   🌐 **Generative AI: Explore the Landscape / IA generativa: explora el panorama** 
+*   💼 **Generative AI Apps: Transform Your Work / Apps de IA generativa: transforma tu trabajo** 
+*   🧩 **Generative AI: Discover the Fundamentals / IA generativa: descubre los conceptos fundamentales** 
+*   🧠 **Gen AI: Beyond the Chatbot / IA generativa: más allá del chatbot** 
+*   📊 **Introduction to Data Analytics in Google Cloud / Introducción al análisis de datos en Google Cloud** 
+
+
+
+### 🚀 **Microsoft Learn**
+*   🛡️ **Exploración de las bases de seguridad de Microsoft 365** (Microsoft)
+*   🤖 **Introducción a Microsoft Copilot** (Microsoft)
+*   🧠 **Exploración de la IA generativa** (Microsoft)
+
+### 📜 **Parchment (Erasmus+ UK)**
+*   🇪🇺 **Ready to Apply for a European Solidarity Corps Project** (Erasmus+ UK National Agency)
+*   🔒 **The Quality Label Unlocked** (Erasmus+ UK National Agency)
+*   🧭 **Navigating the Essentials of the European Solidarity Corps** (Erasmus+ UK National Agency)
+*   💼 **Traineeships and Jobs** (Erasmus+ UK National Agency)
+*   🤝 **Support Measures** (Erasmus+ UK National Agency)
+*   🔓 **Solidarity projects Unlocked!** (Erasmus+ UK National Agency)
+*   🌍 **Volunteering Explorer** (Erasmus+ UK National Agency)
+
+
+### 🛠️ **Google Developers**
+*   🔥 **Grounded agents with Firebase Data Connect solution** (Google Developers)
+* 
 
 ### 📊 Mis Estadísticas de GitHub
 
